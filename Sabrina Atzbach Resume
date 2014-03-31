@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="container">
+		<div id="inner-wrap">		
+		    <div id="main" role="main">
+				<div class="col col-one">
+					<div>
+					    <header>
+							<hgroup>							
+								<h1>Sabrina Valene Atzbach</h1>
+								<h2>Actress Stuck in Real Life</h2>
+							</hgroup>
+					    </header>						
+						<div id="contact-info">
+							<dl>
+								<dt>mobile</dt>
+								<dd>555-555-LOST</dd>
+								<dt>email</dt>
+								<dd><a href="mailto:sababylonian4flute@gmailcom?subject=feedback">sababylonian4flute@gmail.com</a></dd>
+								<dt>web</dt>
+								<dd><a href="#">my-boring-old-website.com</a></dd>
+							</dl>
+						</div>							
+						<article>
+							<div class="date-ranges">
+							    <span class="job-start">Jan 2014</span>
+							    <span class="job-end">present</span>
+							</div>						
+							<hgroup>
+								<h1 class="job-location">Momentum Music and Dance Academy, Burien, WA</h1>
+								<h2 class="job-title">Bathilde</h2>														
+							</hgroup>
+							<p class="job-details">The most principle role I have played so far. As it is my senior year, the artistic director built a solo into the role.</p>
+						</article>
+						<article>
+							<div class="date-ranges">
+							    <span class="job-start">Aug 2013</span>
+							    <span class="job-end">Dec 2013</span>
+							</div>							
+							<hgroup>
+								<h1 class="job-location">Momentum Music and Dance Academy, Burien, WA</h1>
+								<h2 class="job-title">Maid, Lead Spanish</h2>								
+							</hgroup>							
+							<p class="job-details">Held these roles, among others, in the company's production of the Nutcracker. I have played the part of the maid for several years running. I also taught the blocking of the party scene and the adult dance. That was my Senior Project.</p>
+						</article>
+						<article>
+							<div class="date-ranges">
+							    <span class="job-start">Jan 2013</span>
+							    <span class="job-end">Jun 2013</span>
+							</div>
+							<hgroup>
+								<h1 class="job-location">Momentum Music and Dance Academy</h1>
+								<h2 class="job-title">Rothbart, Demi-soloist in Act I</h2>								
+							</hgroup>							
+							<p class="job-details">Was noted by several people to be the highlight of the show for my disturbingly cheery portrayal of the villainous sorceror. Was given the part as a girl because the studio is not exactly rife with men to play all the parts required in most romantic ballets.</p>
+						</article>
+						<article>
+							<div class="date-ranges">
+								<span class="job-start">Feb 2012</span>
+								<span class="job-end">Apr 2012</span>
+							</div>
+							<hgroup>
+								<h1 class="job-location">Mount Rainier High School Drama Club, Des Moines, WA</h1>
+								<h2 class="job-title">Featured Ensemble</h2>						
+							</hgroup>							
+							<p class="job-details">Played the role of "Tiffany" in the musical "The Wedding Singer." Subsequently learned how to make myself appear pregnant with clothing and a string.</p>
+						</article>			
+					</div>
+				</div>
+				<div class="col col-two">	
+					<article>
+						<h1>Special Skills</h1>
+						<dl>
+							<dt>Language</dt>
+							<dd>High-school level French speaker</dd>
+							<dt>Sports</dt>
+							<dd>Ballet classes for 9 years; high school swim team for 4 years</dd>
+							<dt>Computers</dt>
+							<dd>Web Design for one semester in high school</dd>
+							<dt>Music</dt>
+							<dd>Play the flute; can kind of sing</dd>																																			
+						</dl>
+					</article>
+					<article>
+						<h1>Interests</h1>
+						<ul>
+							<li>YouTube</li>
+							<li>Arcade Golfing</li>
+							<li>Sitting</li>
+						</ul>
+						<blockquote><p>Ernie, your mom and I are really concerned about your future.</p><span>Dad</span></blockquote>
+						<p><em>References available if I had them.</em></p>						
+					</article>			
+				</div>
+	    	</div>
+	    <footer></footer>
+		<div id="logo"><img src="img/logo.jpg" alt="Website logo"></div>
+	</div>
+  </div>
+</body>
+</html>
